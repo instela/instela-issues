@@ -1,6 +1,8 @@
 instela-issues
 ==============
 
+Bu repository altında [instela](https://tr.instela.com) hata bildirimleri toplanmaktadır.
+
 Hata (bug) girerken uyulabilecek bir standart olursa, herkes daha kolay iletişim kurabilir.
 Ortak lisan hem mükerrer hataların gönderilmesini engelleyebilir, 
 hem de yazılımcı (ve dahi proje geliştirici) ekibin farklı kaynaklardan gelen sorunları tasnif edip, 
